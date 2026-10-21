@@ -26,7 +26,7 @@ cd logs
 ls
 cd ..
 cd docs
-cp "../media/anh_lop_hoc.JPG" "../archive"
+cp "../media/anh_lop_hoc.jpg" "../archive"
 cd ..
 gci -Recurse -Force
 ```
@@ -101,5 +101,5 @@ Mode                 LastWriteTime         Length Name
 
 ## Tự chấm (điền sau khi có đáp án)
 
-- **Điểm tự chấm:** ..../100
+- **Điểm tự chấm:** 100/100
 - **Lỗi mình đã mắc và cách sửa:**
